@@ -1,2 +1,2 @@
 12345
-line from prog2
+line prog2
